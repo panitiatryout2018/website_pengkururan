@@ -41,7 +41,7 @@ $config['base_url'] = "https://".$ServerName;
 $config['base_url'] .= preg_replace('@/+$@','',dirname($_SERVER['SCRIPT_NAME'])).'/';
 */
 
-$config['base_url'] = 'http://localhost/website_pengukuran/';
+$config['base_url'] = 'https://panitiatryout2018.github.io/website_pengkururan/';
 
 /*
 |--------------------------------------------------------------------------
